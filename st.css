@@ -1,0 +1,21 @@
+
+header{
+	background:black;
+}
+section{
+	display: inline-block;
+	width: 30%;
+	float: left;
+	margin-right: 2%;
+}
+.ph{
+	float:left;
+}
+
+img{
+	margin-left: 200px;
+
+}
+.top{
+	margin-left: 680px;
+}
